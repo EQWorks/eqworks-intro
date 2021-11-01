@@ -23,8 +23,8 @@ At EQ Works, we take a more effective path to the technical interview. Instead o
 
 We have a [LOCUS Engineering Blog](https://medium.com/locus-engineering) maintained by our product/engineering teams. In it, we share our thoughts on our product and technology, culture, and more.
 
-You can also find us on GitHub with a growing portfolio of [open-source projects](https://github.com/EQWorks?q=&type=public), made with our humble effort sincere hope to give back to the community.
+You can find our growing portfolio of [open-source projects on GitHub](https://github.com/EQWorks?q=&type=public) in the spirit of contributing back to the open-source community through our humble efforts.
 
-## 👥 Join us!
+## 👥 [Join us!](https://apply.workable.com/eqworks/)
 
-If you are interested in working with us but haven't applied yet, please go to https://apply.workable.com/eqworks/ and check out the roles.
+If you are interested in working with us but haven't applied yet, please go to <https://apply.workable.com/eqworks/> and check out the roles.
