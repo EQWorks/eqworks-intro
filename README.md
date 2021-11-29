@@ -4,7 +4,7 @@ Thank you so much for being interested in [EQ Works](https://www.eqworks.com). Y
 
 ## 📖 Culture Handbook
 
-You can find our evolving culture handbook in our [Common project](https://github.com/EQWorks/common). In it, we introduce critical subjects such as:
+You can find our evolving culture handbook in [EQ Engineering](https://engineering.eqworks.io/). In it, we introduce critical subjects such as:
 
 - Our decision-making principles.
 - **Our hiring philosophy and process**.
